@@ -1,0 +1,19 @@
+{
+  "source": "USGS Astrogeology lunar WMS, LROC WAC Global Mosaic (ASU; June 2013, edge update Feb 2016)",
+  "source_metadata": "https://planetarymaps.usgs.gov/cgi-bin/mapserv?map=/maps/earth/moon_simp_cyl.map&request=GetMetadata&layer=LROC_WAC",
+  "request_url": "https://planetarymaps.usgs.gov/cgi-bin/mapserv?map=%2Fmaps%2Fearth%2Fmoon_simp_cyl.map&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=LROC_WAC&STYLES=&SRS=EPSG%3A4326&BBOX=346.796875%2C-44.703125%2C350.8125%2C-41.796875&WIDTH=1542&HEIGHT=1116&FORMAT=image%2Fpng&TRANSPARENT=FALSE",
+  "retrieved_utc": "2026-11-23T22:34:37.570854+00:00",
+  "bounds_lon_lat_east_positive": [
+    346.796875,
+    -44.703125,
+    350.8125,
+    -41.796875
+  ],
+  "image_size_px": [
+    1542,
+    1116
+  ],
+  "sha256": "5a0868f0df0b1af66aa706e873348a3642682916bb10be70cf332bde40822fc8",
+  "bytes": 1562009,
+  "usage": "Optical texture only; elevations and laser footprints come from separate LOLA products."
+}

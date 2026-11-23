@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+*.part
+data/source/
+data/full/source/
+data/full/chunks/*_rejected.jsonl
+data/full/acquisition.log
+data/full/failures.jsonl
+data/failures.log
+data/optical_failures.log
+tycho_*.png
+full_*.png
+viewer_checks.json

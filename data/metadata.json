@@ -1,0 +1,80 @@
+{
+  "bounds": [
+    346.8,
+    -44.7,
+    350.8,
+    -41.8
+  ],
+  "query_bounds": [
+    348.2,
+    -43.8,
+    349.6,
+    -42.8
+  ],
+  "query_time": [
+    "2010-01-01",
+    "2011-01-01"
+  ],
+  "reference_radius_m": 1737400,
+  "coordinate_system": "Moon ME/DE421, planetocentric, east-positive longitude",
+  "counts": {
+    "raw_spots_in_query": 47745,
+    "missing_radius": 8226,
+    "shot_flag_nonzero": 8938,
+    "outside_point_clip": 17100,
+    "accepted": 38807,
+    "rejected": 8938
+  },
+  "source_products": {
+    "LOLARDR_101580816_DAT": 1043,
+    "LOLARDR_102671353_DAT": 2593,
+    "LOLARDR_102810359_DAT": 595,
+    "LOLARDR_102810552_DAT": 547,
+    "LOLARDR_101851607_DAT": 24,
+    "LOLARDR_102942148_DAT": 2619,
+    "LOLARDR_102941955_DAT": 2602,
+    "LOLARDR_102122208_DAT": 2544,
+    "LOLARDR_103081146_DAT": 982,
+    "LOLARDR_102261405_DAT": 1039,
+    "LOLARDR_102261558_DAT": 1037,
+    "LOLARDR_103220343_DAT": 2605,
+    "LOLARDR_103351942_DAT": 1014,
+    "LOLARDR_102532156_DAT": 993,
+    "LOLARDR_103491132_DAT": 2597,
+    "LOLARDR_103630312_DAT": 68,
+    "LOLARDR_103630119_DAT": 155,
+    "LOLARDR_100080358_DAT": 785,
+    "LOLARDR_100211805_DAT": 1041,
+    "LOLARDR_100211958_DAT": 1043,
+    "LOLARDR_100490203_DAT": 1054,
+    "LOLARDR_100761003_DAT": 943,
+    "LOLARDR_101031621_DAT": 1002,
+    "LOLARDR_101031814_DAT": 1022,
+    "LOLARDR_101171012_DAT": 2600,
+    "LOLARDR_101310018_DAT": 1036,
+    "LOLARDR_101441617_DAT": 2609,
+    "LOLARDR_101441810_DAT": 2615
+  },
+  "date_range": [
+    "2010-01-08T05:37:40.68256253",
+    "2010-12-29T04:52:07.51782441"
+  ],
+  "accepted_extent": {
+    "lon": [
+      348.2229209,
+      349.4515925
+    ],
+    "lat": [
+      -43.7999379,
+      -42.8000681
+    ],
+    "height_m": [
+      -3542.709,
+      -997.922
+    ]
+  },
+  "display_sampling": "none: all accepted pilot shots",
+  "raw_csv_sha256": "caf81322f03e698be27649e4b425069e86a9780e9f8a9a64bae9358e0ba599d6",
+  "rdr_index_sha256": "71c4423e48668273da22752e8c819e217627403ea7ee784d00248fc65c8b7dbb",
+  "dem_rows_sha256": "7444a0c1ebee9230d52cba48f6d1b0cf70603f29f71aa2318f0d23a0b3ec5d8a"
+}
